@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">Frontend developer from Poland</h3>
+<h1>Hi 👋, I'm Przemek</h1>
+<h3>Frontend developer from Poland</h3>
 
 - 🌱 I’m currently learning **Wordpress CLI**
 
