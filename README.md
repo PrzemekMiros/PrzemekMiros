@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Przemek</h1>
-<h3>Frontend developer from Poland</h3>
+<h3>Frontend web developer from Poland</h3>
 
-- 🌱 I’m currently learning **Wordpress CLI**
-
-- 👨‍💻 All of my projects are available at [https://przemekmiros.pl/realizacje/](https://przemekmiros.pl/realizacje/)
+- 👨‍💻 Some of my after work projects are available at [https://przemekmiros.pl/realizacje/](https://przemekmiros.pl/realizacje/)
 
 - 📝 I regularly write articles on [https://przemekmiros.pl/blog/](https://przemekmiros.pl/blog/)
 
